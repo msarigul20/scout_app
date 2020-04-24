@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "396442616214",
+    "firebase_url": "https://scoutapp-d5015.firebaseio.com",
+    "project_id": "scoutapp-d5015",
+    "storage_bucket": "scoutapp-d5015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396442616214:android:81b34fa6010bb88f011db7",
+        "android_client_info": {
+          "package_name": "com.example.scoutapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396442616214-su4j4jtq1vh6rr4532rqenckitimcd5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJiS2yPqzUA_NIFEvESe0tfSbM5xHamYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396442616214-su4j4jtq1vh6rr4532rqenckitimcd5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
